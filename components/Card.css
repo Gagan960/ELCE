@@ -1,0 +1,7 @@
+.card{
+    border: 10px solid blue;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
